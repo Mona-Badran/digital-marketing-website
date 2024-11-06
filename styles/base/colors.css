@@ -1,5 +1,9 @@
 .primary-bg {
-  background-color: #21DADB;
+  background-color: #524DE6;
+}
+
+.gradiant-bg{
+  background-image: linear-gradient(to bottom right, #21DADB, #35BBDF, #4D94E6);
 }
 
 .black-bg {
@@ -15,7 +19,7 @@
 }
 
 .primary-txt {
-  color: #ea4c89;
+  color: #524DE6;
 }
 
 .black-txt {
